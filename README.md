@@ -33,7 +33,10 @@
 ### Maven Configuration
 - In the `currency-converter` folder, update `settings.xml` for Nexus.
 
-### Build and Deploy
+### Build
+- Execute: `mvn clean install`
+
+### Deploy
 - Execute: `mvn clean deploy`
 
 ## Spring Boot Application (With Nexus)

@@ -106,8 +106,7 @@
         </plugins>
     </build>
 
-    <!-- SCM configuration if needed -->
-    <!-- https://github.com/renepromesse/currencyconverter-yochrista.git -->
+ 
     <scm>
       <url>http://github.com/renepromesse/currencyconverter-yochrista</url>
       <connection>scm:git:git://github.com/renepromesse/currencyconverter-yochrista.git</connection>

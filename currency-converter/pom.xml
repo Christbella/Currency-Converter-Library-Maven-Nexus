@@ -106,12 +106,7 @@
         </plugins>
     </build>
 
- 
-    <scm>
-      <url>http://github.com/renepromesse/currencyconverter-yochrista</url>
-      <connection>scm:git:git://github.com/renepromesse/currencyconverter-yochrista.git</connection>
-      <developerConnection>scm:git:ssh://github.com:renepromesse/currencyconverter-yochrista.git</developerConnection>
-    </scm>
+
     <profiles>
 
     <!-- profile Management configuration for Maven Central -->
